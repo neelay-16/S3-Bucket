@@ -1,0 +1,8 @@
+import boto3
+bucket = boto3.client('s3')
+    bucket.create_bucket(
+    Bucket='diwakarsingh',
+    ACL='private',
+    CreateBucketConfiguration={
+          'LocationConstraint': 'ap-south-1'}
+)

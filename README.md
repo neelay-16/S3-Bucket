@@ -8,7 +8,7 @@ Before running the script, make sure you have the following set up:
 
 1. AWS Account: You'll need an AWS account with the necessary permissions to create S3 buckets.
 2. Python: Ensure that you have Python installed on your system.
-3. Boto3 Library: Install the Boto3 library using pip:
+3. Boto3 Library: Install the Boto3 library using pip
 
 
 # Preview
